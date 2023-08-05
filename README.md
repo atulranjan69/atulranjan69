@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atulranjan69" alt="atulranjan69" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@raunakk56445988" target="blank"><img src="https://img.shields.io/twitter/follow/@raunakk56445988?logo=twitter&style=for-the-badge" alt="@raunakk56445988" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@raunakk56445988" target="blank"><img src="https://img.shields.io/twitter/follow/Atulranjan69?logo=twitter&style=for-the-badge" alt="@Atulranjan69" /></a> </p>
 
 - 🌱 I’m currently learning **MERN STACK , DSA**
 
@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@raunakk56445988" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@raunakk56445988" height="30" width="40" /></a>
+<a href="https://twitter.com/@Atulranjan69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@Atulranjan69" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/atulranjan69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atulranjan69" height="30" width="40" /></a>
 <a href="https://fb.com/atulranjan69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="atulranjan69" height="30" width="40" /></a>
 <a href="https://instagram.com/atul_ranjan_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atul_ranjan_01" height="30" width="40" /></a>

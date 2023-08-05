@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atulranjan69" alt="atulranjan69" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@raunakk56445988" target="blank"><img src="https://img.shields.io/twitter/follow/Atulranjan69?logo=twitter&style=for-the-badge" alt="@Atulranjan69" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@Atulranjan69" target="blank"><img src="https://img.shields.io/twitter/follow/Atulranjan69?logo=twitter&style=for-the-badge" alt="@Atulranjan69" /></a> </p>
 
 - 🌱 I’m currently learning **MERN STACK , DSA**
 
